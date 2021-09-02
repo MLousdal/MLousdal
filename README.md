@@ -18,6 +18,9 @@
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
+
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
