@@ -18,5 +18,5 @@
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
+![MLousdal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlousdal&count_private=true&show_icons=true&hide=issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlousdal&layout=compact)](https://github.com/mlousdal/github-readme-stats)
