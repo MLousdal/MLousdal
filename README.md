@@ -20,6 +20,3 @@
 
 ![MLousdal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlousdal&count_private=true&show_icons=true&hide=issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlousdal&layout=compact)](https://github.com/mlousdal/github-readme-stats)
-
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
