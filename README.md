@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mads Lousdal</h1>
 <h3 align="center">A passionate frontend developer from Denmark</h3>
 
-- 🔭 I’m currently working on **my exam project**
+- 🔭 I’m currently working at my **internship @CombineDK**
 
 - 🌱 I’m currently learning **Vue, NuxtJS, and more!**
 
-- 👨‍💻 Check my portfoio on [madslousdal.com](https://www.madslousdal.com/)
+- 👨‍💻 Check my portfolio on [madslousdal.com](https://www.madslousdal.com/)
 
 - 📫 Reach me at **mads.lousdal@gmail.com**
 
