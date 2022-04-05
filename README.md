@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mads Lousdal</h1>
 <h3 align="center">A passionate frontend developer from Denmark</h3>
 
-- 🔭 I’m currently working at my **internship @CombineDK**
+- 🔭 I just started my 4th semester exam!
 
-- 🌱 I’m currently learning **Vue, NuxtJS, and more!**
+- 🌱 I’m currently learning **TypeScript, Vue and more!**
 
 - 👨‍💻 Check my portfolio on [madslousdal.com](https://www.madslousdal.com/)
 
